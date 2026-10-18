@@ -11,3 +11,7 @@
 - Both CLIs are copied to and executed from a new temporary directory using only an anonymous example and temporary synthetic test WAV. No production media used.
 
 The example timing values are invented. This release contains no rendered reference artwork or licensed anime sound. Tests do not demonstrate aesthetic quality, reliable automatic beat detection, denoising, a certified true-peak meter, or subjective listening approval. Final media still requires the visual/audio checks described in the skill.
+
+## v1.0.1 · 首页与展示资源
+
+2026-10-18：加入四张经明确授权用于首页展示的实际成片截图，裁切与压缩后移除 EXIF；展示图单独许可，完整媒体不分发。重排首页，补充工具职责、必需/可选依赖、安装验证命令与官方入口；按当前官方说明修正个人技能安装目录。Python 助手无行为变更。
