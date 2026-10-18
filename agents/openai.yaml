@@ -1,0 +1,4 @@
+interface:
+  display_name: "黑闪冲击帧"
+  short_description: "实拍动漫黑闪：原声增强、动作卡点、连续变速、场景交互与清晰成片"
+  default_prompt: "使用 $black-flash-impact，将我的实拍动作制作成黑闪冲击帧，保留原声辨识，配合音乐卡点，并输出完整预览及可编辑工程。"
